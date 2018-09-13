@@ -1,7 +1,7 @@
-# numpy_stu
+# 《python数据科学手册》之numpy
 
-## numpy学习
+文件基于jupyter notebook，如在本地运行测试，请安装jupyter，建议安装Anaconda作为python的开发环境。
 
-学习python数据科学手册的学习笔记
+代码基于python3测试运行通过。
 
-numpy部分
+如有错误欢迎指正！！！！
