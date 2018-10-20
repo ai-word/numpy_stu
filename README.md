@@ -1,7 +1,21 @@
-# 《python数据科学手册》之numpy
+# 《python数据科学手册》numpy包学习
 
-代码基于jupyter notebook编写，如在本地运行测试，请安装jupyter，建议安装Anaconda作为python的开发环境。
+## 环境
+
+代码基于jupyter notebook编写，如在本地运行测试，安装jupyter。
+
+建议安装Anaconda作为python的开发环境。
 
 代码基于python3测试运行通过。
+
+## 代码
+
+这是一个学习笔记，免得前面学后面往，写的比较简单，就是为了让自己快速的可以回忆起来。
+
+代码大部分来源于《python数据科学手册》中。
+
+## 推荐
+
+《python数据科学手册》真是一本不错的数据科学的书，值得认真学习。
 
 如有错误欢迎指正！！！！
